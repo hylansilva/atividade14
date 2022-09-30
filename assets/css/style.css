@@ -30,10 +30,12 @@ body{
     margin-bottom: 25px;
 }
 
-.texto{
-    width: 500px;
-    margin-left: 35%;
+p{  
+    padding-left: 40%;
+    justify-content: end;
+    text-align: end;
 }
+
 
 .btn-wrapper{
     margin-top: 10%;
